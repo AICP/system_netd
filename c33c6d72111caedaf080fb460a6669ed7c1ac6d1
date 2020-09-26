@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "b1eadb83_5f959a7e",
+        "filename": "resolv/hosts_cache.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 209
+      },
+      "writtenOn": "2020-09-26T17:58:00Z",
+      "side": 1,
+      "message": "ok :)",
+      "parentUuid": "8c6cc0f6_bbb34db3",
+      "revId": "c33c6d72111caedaf080fb460a6669ed7c1ac6d1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "df3a5808_7b213962",
         "filename": "resolv/hosts_cache.cpp",
         "patchSetId": 2
@@ -33,6 +51,24 @@
       "revId": "c33c6d72111caedaf080fb460a6669ed7c1ac6d1",
       "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0169da5d_0ea49eba",
+        "filename": "resolv/hosts_cache.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 269,
+      "author": {
+        "id": 209
+      },
+      "writtenOn": "2020-09-26T17:58:00Z",
+      "side": 1,
+      "message": "Yes, it points to one of two hardcoded strings.",
+      "parentUuid": "df3a5808_7b213962",
+      "revId": "c33c6d72111caedaf080fb460a6669ed7c1ac6d1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
     }
   ]
 }
