@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8c6cc0f6_bbb34db3",
+        "filename": "resolv/hosts_cache.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 1782
+      },
+      "writtenOn": "2020-09-26T17:02:08Z",
+      "side": 1,
+      "message": "This is a normal string, you can just use the standard strcmp().",
+      "revId": "c33c6d72111caedaf080fb460a6669ed7c1ac6d1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "df3a5808_7b213962",
+        "filename": "resolv/hosts_cache.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 269,
+      "author": {
+        "id": 1782
+      },
+      "writtenOn": "2020-09-26T17:02:08Z",
+      "side": 1,
+      "message": "This is fine, so long as gethostsfile() returns a pointer that is never freed.  I haven\u0027t looked, just wanted to make sure that was considered.",
+      "revId": "c33c6d72111caedaf080fb460a6669ed7c1ac6d1",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": true
+    }
+  ]
+}
